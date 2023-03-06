@@ -2,6 +2,8 @@
 #include<algorithm>
 using namespace std;
 
+using namespace std;
+
 int main() {
     const int Max_SIZE = 100;
     int arr1[Max_SIZE], arr2[Max_SIZE];
