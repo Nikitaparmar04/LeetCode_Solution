@@ -1,4 +1,4 @@
-					// 😉😉😉😉Please upvote if it helps 😉😉😉😉
+
 class Solution {
 public:
     string simplifyPath(string path) {
